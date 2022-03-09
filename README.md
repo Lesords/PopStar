@@ -13,3 +13,5 @@
 
 ## 游戏界面为：
 ![image](https://user-images.githubusercontent.com/98899771/154812931-efaa1f1d-dadc-4839-9fc0-e8e44a65c7ad.png)
+
+![game_interface](https://user-images.githubusercontent.com/98899771/157398542-dd9f69d9-cc52-4d50-97a2-f5795b92f5cd.gif)
