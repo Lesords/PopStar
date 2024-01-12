@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/icon">
+        <file>refresh.png</file>
+        <file>hammer.png</file>
+    </qresource>
+    <qresource prefix="/star">
+        <file>star1.png</file>
+        <file>star2.png</file>
+        <file>star3.png</file>
+        <file>star4.png</file>
+        <file>star5.png</file>
+    </qresource>
+</RCC>

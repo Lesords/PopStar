@@ -4,27 +4,26 @@
 #
 #-------------------------------------------------
 
-QT       += core gui
+QT        += core gui
 
 greaterThan(QT_MAJOR_VERSION, 4): QT += widgets
 
-TARGET = PopStar
-TEMPLATE = app
+TARGET    = PopStar
+TEMPLATE  = app
 
-CONFIG += c++11
+CONFIG    += c++11
 
-SOURCES += main.cpp\
-        mainwindow.cpp \
-    popstar.cpp \
-    game_over.cpp
+SOURCES   += src/main.cpp \
+    src/mainwindow.cpp \
+    src/popstar.cpp \
+    src/game_over.cpp
 
-HEADERS  += mainwindow.h \
-    popstar.h \
-    game_over.h
+HEADERS   += src/mainwindow.h \
+    src/popstar.h \
+    src/game_over.h
 
-FORMS    += mainwindow.ui \
-    popstar.ui \
-    game_over.ui
+FORMS     += ui/mainwindow.ui \
+    ui/popstar.ui \
+    ui/game_over.ui
 
-RESOURCES += \
-    image.qrc
+RESOURCES += resources/image.qrc
